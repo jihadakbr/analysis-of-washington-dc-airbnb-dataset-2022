@@ -13,7 +13,7 @@ Airbnb is a company founded in 2008 that provides an online platform for people 
 * Tableau: data visualization
 ## Results
 
-![air bnb dataset 2022](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwwlI-d14bVxNYeo9bHiXKXaB9vel47YQqEgyINc133TaXEzE9Qz96gRdenm8FJq4HFM0a-d4nqEi5GhSFW-ufhC5C7W6PGM-IHMwbunLYYIXCTP2IVAvTH3TNjNwdXNC8Y6zOy3w-PUOumOGSv-UJhHYlrKMnGl2vOrdtypZOmsqV8LTpcGRyzzxr/s1600/air-bnb-dataset-2022.png)
+![air bnb dataset 2022](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWgPAAlBV8UMk_5Dp_b4wgTGwVbqZYMYszafpaDoMuPc9vkiL234GlfBTU2H4zdrv1OusFo_TuWkBrQm2bSVPzDdnkoEDWU2i8yNyS7VBJ5BJSVSGFSfZ8hUc29xCGWc_q64CscYhO0jmI8JtN4djKkF5r7SyOVNKZndXzp0FmTeXB1Z8oAnsQe6ok/s1600/air-bnb-dataset-2022.png)
 
 [https://public.tableau.com/app/profile/jihad.akbar](https://public.tableau.com/app/profile/jihad.akbar/viz/AirBnB_16744913623690/Dashboard1)
 
