@@ -12,6 +12,7 @@ Airbnb is a company founded in 2008 that provides an online platform for people 
 * Jupyter Notebook: data cleaning and preprocessing
 * Tableau: data visualization
 ## Results
+Due to the limitations of GitHub, you can download the excel files from this [Google Drive link](https://drive.google.com/drive/folders/1nYoGvTirGfiSJ1rieokX-npsr6AmnbWC?usp=sharing) (200 mb)
 
 ![air bnb dataset 2022](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWgPAAlBV8UMk_5Dp_b4wgTGwVbqZYMYszafpaDoMuPc9vkiL234GlfBTU2H4zdrv1OusFo_TuWkBrQm2bSVPzDdnkoEDWU2i8yNyS7VBJ5BJSVSGFSfZ8hUc29xCGWc_q64CscYhO0jmI8JtN4djKkF5r7SyOVNKZndXzp0FmTeXB1Z8oAnsQe6ok/s1600/air-bnb-dataset-2022.png)
 
